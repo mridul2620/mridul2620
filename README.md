@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/Uaxj062PavgqZRhVkS" width="480" height="314" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS">via GIPHY</a></p>
+
 <!--
 **mridul2620/mridul2620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
