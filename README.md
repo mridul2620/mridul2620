@@ -1,6 +1,5 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODEzanlzMXY2OGYzcjZvdWIzem03ZHp3b2xmNmh2dW5qdmZldDZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif?cid=ecf05e47tndgylz4yjiaar0rfmg7cszva8v8a7gtwcycg9bb&ep=v1_gifs_related&rid=giphy.gif&ct=ts" width="100"/>
 </div>
 <!--
 **mridul2620/mridul2620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
