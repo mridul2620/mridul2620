@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<iframe src="https://giphy.com/embed/Uaxj062PavgqZRhVkS" width="480" height="314" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODEzanlzMXY2OGYzcjZvdWIzem03ZHp3b2xmNmh2dW5qdmZldDZzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
+</div>
 <!--
 **mridul2620/mridul2620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
