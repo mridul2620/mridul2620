@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif?cid=ecf05e47tndgylz4yjiaar0rfmg7cszva8v8a7gtwcycg9bb&ep=v1_gifs_related&rid=giphy.gif&ct=ts" width="100"/>
 </div>
-
-
+<br>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/mridul-srivastava-a198b51b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
