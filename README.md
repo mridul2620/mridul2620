@@ -48,10 +48,10 @@ Continuously evolving is my mantra. Currently, I'm diving deep into the MERN sta
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mridul-srivastava-a198b51b5/) or drop me an email at [mridulsriv26@gmail.com](mailto:mridulsriv26@gmail.com). I'm open to collaborations and exciting opportunities!
 <br>
-
+<!--
 ## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridul2620)](https://github.com/mridul2620/github-readme-stats)
-<!--
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mridul2620&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
