@@ -25,6 +25,10 @@
 - :art: HTML/CSS
 - :zap: JavaScript
 - :floppy_disk: SQL
+- :atom_symbol: React
+- :computer_mouse: Node.js
+- :seedling: MongoDB
+- :link: Express.js
 ## Developer Tools
 - :wrench: VS Code
 - :crescent_moon: Eclipse
@@ -39,10 +43,11 @@
 - :mag: Semrush
 - :desktop_computer: WordPress
 - :postbox: Postman
+- :cloud: AWS EC2
 
 ## 🌱 Currently Learning
 
-Continuously evolving is my mantra. Currently, I'm diving deep into the MERN stack, honing my skills in creating dynamic and responsive web applications.
+Continuously evolving is my mantra. Currently, I'm diving deep into blockchain, honing my skills in creating secure and decentralized applications.
 
 ## 📫 Let's Connect
 
