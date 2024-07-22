@@ -9,7 +9,7 @@
   <a href="mailto:mridulsriv26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://music.apple.com/profile/Mridul2620">
+  <a href="https://open.spotify.com/user/31b7fzzsa4gdjguodwzklhnmj7g4?si=H92W_2AWSMWkH_TqUxMzmQ">
     <img src="https://img.shields.io/badge/Music-red?style=for-the-badge&logo=applemusic&logoColor=white" alt="Music Badge"/>
   </a>
 </div>
@@ -17,6 +17,10 @@
 <p>I'm Mridul Srivastava, a passionate developer and tech enthusiast based in United Kingdom. I'm always eager to explore new possibilities and challenges. Here's a glimpse into my world:</p>
 
 ## Skills
+- :atom_symbol: React
+- :computer_mouse: Node.js
+- :seedling: MongoDB
+- :link: Express.js
 - :coffee: Java
 - :dart: Dart
 - :computer: C/C++
@@ -25,10 +29,6 @@
 - :art: HTML/CSS
 - :zap: JavaScript
 - :floppy_disk: SQL
-- :atom_symbol: React
-- :computer_mouse: Node.js
-- :seedling: MongoDB
-- :link: Express.js
 ## Developer Tools
 - :wrench: VS Code
 - :crescent_moon: Eclipse
@@ -37,13 +37,13 @@
 ## Technologies/Frameworks
 - :iphone: Flutter
 - :octocat: GitHub
+- :postbox: Postman
+- :cloud: AWS EC2
 - :seedling: Spring
 - :fire: Google Firebase
 - :page_facing_up: Cloud Firestore
 - :mag: Semrush
 - :desktop_computer: WordPress
-- :postbox: Postman
-- :cloud: AWS EC2
 
 ## 🌱 Currently Learning
 
