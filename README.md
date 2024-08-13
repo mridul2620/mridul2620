@@ -55,7 +55,7 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mrid
 <br>
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridul2620)](https://github.com/mridul2620/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridul2620)](https://github.com/mridul2620/github-readme-stats) -->
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mridul2620&show_icons=true&theme=radical)
 
