@@ -18,6 +18,7 @@
 
 ## Skills
 - :atom_symbol: React
+- :atom_symbol: Next.js
 - :computer_mouse: Node.js
 - :seedling: MongoDB
 - :link: Express.js
@@ -27,23 +28,29 @@
 - :snake: Python
 - :globe_with_meridians: REST API
 - :art: HTML/CSS
+- :art: Tailwind CSS
 - :zap: JavaScript
+- :zap: TypeScript
 - :floppy_disk: SQL
+
 ## Developer Tools
 - :wrench: VS Code
 - :crescent_moon: Eclipse
 - :gear: PyCharm
 - :iphone: Android Studio
+
 ## Technologies/Frameworks
 - :iphone: Flutter
 - :octocat: GitHub
 - :postbox: Postman
 - :cloud: AWS EC2
 - :seedling: Spring
+- :seedling: Spring Boot
 - :fire: Google Firebase
 - :page_facing_up: Cloud Firestore
 - :mag: Semrush
 - :desktop_computer: WordPress
+
 
 ## 🌱 Currently Learning
 
